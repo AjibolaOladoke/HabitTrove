@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![HabitTrove](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![HabitTrove](images/preview.png)](https://github.com/Swift-Tech-Co/HabitTrove)
 
 ## Try the Demo
 
@@ -116,7 +116,7 @@ To contribute to HabitTrove, you'll need to set up a development environment. He
 1. Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://www.swifttechco.com
+git clone https://github.com/Swift-Tech-Co/HabitTrove
 cd habittrove
 ```
 
@@ -138,7 +138,7 @@ npm run setup:dev
 npm run dev
 ```
 
-5. Open https://www.swifttechco.com in your browser to access the development version.
+5. Open https://github.com/Swift-Tech-Co/HabitTrove in your browser to access the development version.
 
 ### Running Tests
 
@@ -193,13 +193,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/HabitTrove
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [dohsimpson/HabitTrove](https://github.com/dohsimpson/HabitTrove) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
