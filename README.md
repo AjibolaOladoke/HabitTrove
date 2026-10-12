@@ -1,22 +1,16 @@
-#  HabitTrove
+# HabitTrove
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the HabitTrove notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![HabitTrove](https://opengraph.githubassets.com/1/dohsimpson/HabitTrove)](https://www.swifttechco.com)
-
-
-[![cover](https://github.com/user-attachments/assets/b63e98b4-64ae-49c7-ae7e-21ef76c04a5a)](https://www.swifttechco.com)
-
-HabitTrove is a gamified habit tracking application that helps you build and maintain positive habits by rewarding you with coins, which you can use to exchange for rewards.
-
-Also, try [TaskTrove](https://www.swifttechco.com):
-
-<a href="https://www.swifttechco.com"></a>
-
+[![HabitTrove](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Try the Demo
 
-Want to try HabitTrove before installing? Visit the public [demo instance](https://www.swifttechco.com) to experience all features without any setup required. (do not store personal info. Data on the demo instance is reset daily)
+Want to try HabitTrove before installing? Visit the public demo instance to experience all features without any setup required. (do not store personal info. Data on the demo instance is reset daily)
 
 ## Features
 
@@ -144,7 +138,7 @@ npm run setup:dev
 npm run dev
 ```
 
-5. Open [https://www.swifttechco.com](https://www.swifttechco.com) in your browser to access the development version.
+5. Open https://www.swifttechco.com in your browser to access the development version.
 
 ### Running Tests
 
@@ -175,7 +169,7 @@ Run these commands regularly during development to catch issues early.
 
 ## Contributing
 
-We welcome feature requests and bug reports! Please [open an issue](https://www.swifttechco.com). We do not accept pull request at the moment.
+We welcome feature requests and bug reports! Please open an issue. We do not accept pull request at the moment.
 
 ## License
 
@@ -195,14 +189,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [dohsimpson/HabitTrove](https://github.com/dohsimpson/HabitTrove) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
